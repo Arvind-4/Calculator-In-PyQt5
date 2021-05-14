@@ -8,7 +8,7 @@
 #### For installation 
 
 #### run command 
-#### run pip install PyQt5 
+#### pip install PyQt5 
 
 ##### in command prompt or powershell
 
