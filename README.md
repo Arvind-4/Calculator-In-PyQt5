@@ -1,16 +1,22 @@
 # Calculator in PyQt5
 
+A Scientific Calculator using [PyQt5](https://pypi.org/project/PyQt5/)
 
-### Requires latest version of Python
-### Requires PyQt5 module
+# Code
 
+### Step 1: Create Virtual Environment
+```
+cd /path/to/folder
+mkdir calculator
+cd calculator
+virtualenv venv
+source venv/scripts/activate
+```
 
-#### For installation 
-
-#### run command 
-#### pip install PyQt5 
-
-##### in command prompt or powershell
-
-
-
+### Step 2: Clone Repo & Run Code
+```
+mkdir src
+cd src
+git clone https://github.com/Arvind-4/Calculator_in_PyQt5.git .
+python main.py
+```
